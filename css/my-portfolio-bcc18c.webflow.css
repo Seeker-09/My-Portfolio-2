@@ -555,14 +555,14 @@ figcaption {
   background-size: cover;
 }
 
-.work-image.cc-work-4 {
-  background-image: url('../images/portfolio-3---wide.svg');
+.work-image.cc-work-3 {
+  background-image: url('../images/weatherDashboardScreenshot.png');
   background-size: cover;
 }
-
-.work-image.cc-work-3 {
-  background-image: url('../images/portfolio-4---wide.svg');
+.work-image.cc-work-4 {
+  background-image: url('../images/workDaySchedulerScreenshot.png');
   background-size: cover;
+  background-position: top;
 }
 
 .project-name-link {
